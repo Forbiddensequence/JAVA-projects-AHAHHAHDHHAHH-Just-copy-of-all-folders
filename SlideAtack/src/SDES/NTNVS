@@ -1,0 +1,10 @@
+    public static int[] EandP={8,3,7,2,6,4,5,1,3,2,4,8};
+    public static int[] P={8,7,3,2,5,4,1,6};
+    public static int[] S1={7,6,3,5,6,1,5,1,
+                            2,4,2,3,4,0,7,0};
+    public static int[] S2={5,0,0,7,1,4,5,4,
+                            3,2,6,3,6,1,2,7};
+    public static int[] S3={3,2,2,1,
+                            0,2,2,1,
+                            1,0,0,3,
+                            1,3,0,3};
